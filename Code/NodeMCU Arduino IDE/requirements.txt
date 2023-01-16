@@ -1,0 +1,11 @@
+The code requires following libraries to work
+ESP8266WiFi.h
+ESPAsyncTCP.h
+ESPAsyncWebServer.h
+Adafruit_MPU6050.h
+Adafruit_Sensor.h
+Wire.h
+imuFilter.h
+EEPROM.h
+SPI.h
+Mcp320x.h

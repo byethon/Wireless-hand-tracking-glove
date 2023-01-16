@@ -1,0 +1,10 @@
+Memcached server needs to be installed beforehand on the system.
+
+The code requires following python modules to work
+numpy
+websockets
+matplotlib
+random
+math
+memcache
+asyncio
