@@ -49,6 +49,8 @@ background.
 
 # Prototype
 ![Proto1](./demo/prototype_img1.jpg)
+![Proto2](./demo/prototype_img2.jpg)
+![Proto3](./demo/prototype_img3.jpg)
 
 # Real World Performance
 ● Sampled output at upto 120Hz  
